@@ -1,4 +1,4 @@
-# 
+# OBS Studio for macOS rare Addon: slow-motion & lens-flare offers the most advanced OBS Studio for macOS addon, with slow-motion and lens-flare. Ideal for professional video
 
 
 
